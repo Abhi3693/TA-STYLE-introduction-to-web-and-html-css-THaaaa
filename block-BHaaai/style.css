@@ -1,28 +1,29 @@
 h2 {
     color: green;
-    padding-left: 20px;
+    font-size: 36px;
 }
 h1 {
     color: white;
     text-align: center;
-    
+    font-size: 48px;
 }
 h3 {
     color: white;
-    padding-left: 20px;
-
+    font-size: 24px;
 }
 p {
     color: white;
-    padding-left: 20px;
+    font-size: 20px;
 }
 address {
     color: white;
     text-align: center;
+    font-size: 20px;
 }
 nav {
     color: red;
     font-size: 22px;
+    padding: 20px;
 }
 div {
     background-color: darkblue;
@@ -30,11 +31,14 @@ div {
 }
 body {
     background-color: blue;
-}
-a {
-    padding-left: 20px;
+    padding: 30px;
 }
 img {
     align-self: center;
-    padding-left: 730px;
+    margin-left: 730px;
+}
+a {
+    margin-left: 40px;
+    color: red;
+    text-decoration: none;
 }
